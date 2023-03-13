@@ -2,7 +2,7 @@
 
 ## Me chamo Weslley Gomes
 
-Sou um profissional em em transição para área de desenvolvimento, com isso, estou bastante focado em meus estudos :muscle::muscle::muscle: 
+Sou um profissional em transição para área de desenvolvimento, com isso, estou bastante focado em meus estudos :muscle::muscle::muscle: :dart:
 
 Nesse repositório, irei compartilhar um pouco dos meus projetos pessoais e acadêmicos, das têcnologias que venho aprimorando.
 
